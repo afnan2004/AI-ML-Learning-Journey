@@ -1,5 +1,4 @@
-# AI-ML-Learning-Journey
-Daily progress, notes, notebooks, and projects from my AI &amp; Machine Learning learning journey.
+
 # AI & ML Learning Journey 🚀
 
 Documenting my journey toward becoming an AI/ML Engineer through hands-on coding, projects, and continuous learning.
